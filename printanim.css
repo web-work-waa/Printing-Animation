@@ -1,0 +1,11 @@
+body {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background: rebeccapurple;
+}
+
+svg {
+	width: 100%;
+	height: 100%;
+}
